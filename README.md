@@ -14,7 +14,6 @@ password: test@2026
 
 #How to SETUP
 
-```
 
 To download the repo and run locally, please clone:
 
