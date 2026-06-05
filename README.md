@@ -14,25 +14,12 @@ password: test@2026
 
 #How to SETUP
 
-First you will need to install React.
-
-```
-npm install -g create-react-app
-
-```
-then:
-
-```
-create-react-app pets
-cd my-app/
-npm start
-
 ```
 
 To download the repo and run locally, please clone:
 
 ```
-git clone https://github.com/NguyenTungs/react-express-mongodb-example.git
+git clone https://github.com/Dhinash001/IFQ636.git
 
 cd pets
 
